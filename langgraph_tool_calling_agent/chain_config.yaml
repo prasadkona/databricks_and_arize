@@ -1,0 +1,2 @@
+LLM_ENDPOINT_NAME: "databricks-meta-llama-3-3-70b-instruct" 
+ARIZE_PROJECT_NAME: "ArizeDatabricksDemo"
